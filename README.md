@@ -1,6 +1,6 @@
 # FirstProjct
-This is my first Git Repository.
+This is a simple Git Repository.
 <br>
-Author:Sudarshan (SDR)
+Author:Sudarshan 
 
 <br>
